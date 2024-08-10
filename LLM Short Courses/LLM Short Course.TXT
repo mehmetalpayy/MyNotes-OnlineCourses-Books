@@ -1,0 +1,18 @@
+https://www.deeplearning.ai/short-courses/building-your-own-database-agent/ - done
+https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/ - done
+https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/ - done ( aşırı iyi )
+https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/ - done
+https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/ - done
+https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/ - done ( güzel eğitim )
+https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/ - done
+https://www.deeplearning.ai/short-courses/llmops/ - done
+https://www.deeplearning.ai/short-courses/pair-programming-llm/ - done
+https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/ - done ( güzel )
+https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/ - done
+https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/ - done
+https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/ - done
+https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/
+https://www.deeplearning.ai/short-courses/quantization-in-depth/ - done
+https://www.deeplearning.ai/short-courses/build-llm-apps-with-langchain-js/ - done
+https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/ - done
+https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/ - done
